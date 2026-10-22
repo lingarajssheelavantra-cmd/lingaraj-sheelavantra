@@ -1,0 +1,6 @@
+{
+  "name": "Street Legends: Car vs Bike",
+  "description": "A high-speed 3D street racing game featuring supercars and superbikes competing across city highways, mountain passes, and neon-lit night tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
